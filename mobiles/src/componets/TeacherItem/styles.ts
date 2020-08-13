@@ -101,7 +101,9 @@ const styles = StyleSheet.create({
         fontFamily: 'Archivo_700Bold',
     },
     
-
+    favorited: {
+        backgroundColor: '#e33d3d'
+    }
 })
 
 export default styles;
